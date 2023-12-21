@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CRUD-Tutorial-Using-React-Firebase/static/css/main.dc4d6ff2.css",
+    "main.js": "/CRUD-Tutorial-Using-React-Firebase/static/js/main.06ae5026.js",
+    "static/js/787.b84c2ea3.chunk.js": "/CRUD-Tutorial-Using-React-Firebase/static/js/787.b84c2ea3.chunk.js",
+    "index.html": "/CRUD-Tutorial-Using-React-Firebase/index.html",
+    "main.dc4d6ff2.css.map": "/CRUD-Tutorial-Using-React-Firebase/static/css/main.dc4d6ff2.css.map",
+    "main.06ae5026.js.map": "/CRUD-Tutorial-Using-React-Firebase/static/js/main.06ae5026.js.map",
+    "787.b84c2ea3.chunk.js.map": "/CRUD-Tutorial-Using-React-Firebase/static/js/787.b84c2ea3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.06ae5026.js"
+  ]
+}
